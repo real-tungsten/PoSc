@@ -8,3 +8,6 @@ directory ma jao (Go to directory)
  
 Ab tool ko run karo (Run The Tool)
 * python3 PoSc.py
+
+
+⚠️ Note: Built strictly for educational purposes
