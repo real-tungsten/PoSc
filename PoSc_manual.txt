@@ -1,0 +1,25 @@
+PoSc = Po + Sc
+Po = Port
+Sc = Scanner
+Port + Scanner = PoSc
+
+#-*#*=#=*#*-# Mujhe bhaut kushi ho rahi h, ya bata hua, ke ya script mana bina AI ke help k likhe h (0% AI usage). And kushi isleya h keyoke ma Class 9 ka student hu aur sab janta h ke Indian school ma kis tareka sa padhi hote h bilkul bakar tareka sa bus ratna ratna ratna he sikhna ta h Indian school ma
+(I am feeling very happy to share that I wrote this script completely on my own without any help from AI (0% AI usage). I am so happy because I am a Class 9 student, and everyone knows how studying is done in Indian schools—it's a terrible system where you are only taught to memorize and rote-learn everything) #-*#*=#=*#*-#
+
+++Note- Is tool ko chala ka leya hama 3 chezo ke zarurt h (3 things requirement to run this tool)++
+
+1. Koi sa bhe Linux Distro (Any linux distro) (For Example-kali linux, Fedora, BlackArch & other )
+2. Python ka python3 version accha rahaga (python3 is best for run this tool)
+3. Nmap install hono zaruri chaheya, aap script chala kar bhe installkar sakta h nmap (Nmap is necessary for this tool, You can also install nmap using this script)
+
+#Tool kasha Chalai? (How to run tool?)#
+1. phala git install karo (git install)- Command here for fedora: sudo dnf install git | kali linux: sudo apt install git
+note- aap apna linux distro ka hisab internet par sa command dak kar git ko apna system ma install kar sakta h
+(You can also install git using internet guide for you distro)
+2. Iss command sa mare script ko apna sytem ma install kar sakta ho. bas github ko install hono ka bad, terminal par ya command chala do command here: git clone https://github.com/real-tungsten/PoSc.git (after install github, you can run this command for install my script command here: git clone https://github.com/real-tungsten/PoSc.git )
+3. ab PoSc diretory(folder) ma jao (Go to Posc directory) Command here: cd PoSc
+4. ab is script ko run karo command here: python3 PoSc.py (Run the script command here: python3 PoSc.py) 
+
+
+*Chao too aap mujhe support kar sakta ho mare Instagram id- @0fficial.yuvraj | Github- real.tungsten
+*(Support me on Instagram id- @0fficial.yuvraj | Github- real.tungsten)
