@@ -1,4 +1,4 @@
-# PoSo
+# PoSc 
 <img width="960" height="595" alt="image" src="https://github.com/user-attachments/assets/a63b36b7-cf45-4e81-a96c-b03c0ff7caf8" />
 
 # Kasha Chalaei(How To Run)
